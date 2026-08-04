@@ -1,4 +1,18 @@
-# Code-Alpha-Task
-Task 1
-<br> 
-Author - Govind Kumar
+Ecommerce-Store/
+│
+├── client/
+│   ├── index.html
+│   ├── products.html
+│   ├── cart.html
+│   ├── login.html
+│   ├── register.html
+│   ├── css/
+│   └── js/
+│
+├── server/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   └── server.js
+│
+└── README.md
